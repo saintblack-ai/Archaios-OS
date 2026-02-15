@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-02-13T13:41:58.760809+00:00",
+  "agent": "music_agent",
+  "task_id": "music-001",
+  "task_type": "music",
+  "priority": "high",
+  "project": "Saint Black Single Campaign",
+  "instructions": "Prepare launch week strategy and content cadence.",
+  "output_summary": "Generated release, hooks, captions, and metadata checklist.",
+  "result": {
+    "status": "success",
+    "agent": "music_agent",
+    "task_id": "music-001",
+    "task_type": "music",
+    "project": "Saint Black Single Campaign",
+    "summary": "Generated release, hooks, captions, and metadata checklist.",
+    "content": {
+      "release_plan": [
+        "Week 1: Finalize master for Saint Black Single Campaign and align distribution metadata.",
+        "Week 2: Deliver teaser assets and pre-save campaign.",
+        "Week 3: Release single and monitor fan feedback loops.",
+        "Week 4: Publish remix or acoustic follow-up content."
+      ],
+      "hook_ideas": [
+        "15-second emotional chorus cut with narrative on-screen text.",
+        "Behind-the-scenes creative process mini-series.",
+        "Fan duet/stitch call to action around signature lyric."
+      ],
+      "social_captions": [
+        "This is chapter one of Saint Black Single Campaign. The signal is live.",
+        "Built this for the late-night dreamers. Pre-save now.",
+        "New frequency loaded. Tell me where this track takes you."
+      ],
+      "metadata_checklist": [
+        "ISRC and UPC confirmed",
+        "Primary/featured artist roles verified",
+        "Lyrics and explicit flag validated",
+        "DSP genre and mood tags reviewed"
+      ],
+      "notes": "Prepare launch week strategy and content cadence."
+    },
+    "requires_human_approval": false
+  }
+}

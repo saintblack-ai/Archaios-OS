@@ -1,0 +1,12 @@
+name = "archaios-daily-trigger"
+main = "worker.js"
+compatibility_date = "2026-02-13"
+
+[triggers]
+crons = ["0 5 * * *"]
+
+[vars]
+ARCHAIOS_ENDPOINT = "https://example.com/api/archaios/daily"
+
+# Set token via:
+# wrangler secret put ARCHAIOS_TOKEN

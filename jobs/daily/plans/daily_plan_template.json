@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "music-001",
+      "type": "music",
+      "priority": "high",
+      "project": "Saint Black Single Campaign",
+      "instructions": "Prepare launch week strategy and content cadence."
+    },
+    {
+      "id": "art-001",
+      "type": "art",
+      "priority": "medium",
+      "project": "Saint Black Visual Identity",
+      "instructions": "Generate updated visual concept and cover guidance."
+    },
+    {
+      "id": "publish-001",
+      "type": "publish",
+      "priority": "high",
+      "project": "Saint Black Publishing Operations",
+      "instructions": "Draft weekly posting schedule and checklist."
+    },
+    {
+      "id": "qx-quantum-001",
+      "type": "qx_quantum",
+      "priority": "high",
+      "project": "QX Quantum Program",
+      "instructions": "Build a technical brief and milestone plan."
+    },
+    {
+      "id": "qx-security-001",
+      "type": "qx_security",
+      "priority": "high",
+      "project": "QX Security Operations",
+      "instructions": "Run risk and compliance checklist summary."
+    }
+  ]
+}
