@@ -1,5 +1,40 @@
 # Archaios OS
 
+> **Proof-of-work overview:** Archaios OS is an independent orchestration and automation project for coordinating AI-assisted agents, scheduled jobs, structured outputs, dashboards, metrics, and cloud-triggered workflows.
+
+## What I Built
+
+I created Archaios OS to explore how multiple AI-assisted workflows can be organized into a repeatable operating system instead of isolated prompts. The project demonstrates:
+
+- Agent orchestration and task routing
+- Scheduled daily automation
+- Structured logging and metrics
+- Streamlit command dashboard visibility
+- Cloudflare Worker triggers
+- GitHub Actions for recurring runs and review automation
+- Draft-first output generation with human oversight
+
+## My Role
+
+**Independent AI Automation Builder / Systems Designer**
+
+I developed the concept, architecture, workflow structure, task plans, agent roles, dashboard direction, testing approach, and operating documentation. I use AI to accelerate planning and implementation while keeping important decisions and publishing actions human-reviewed.
+
+## Technology Stack
+
+- Python
+- Streamlit
+- Cloudflare Workers
+- GitHub Actions
+- JSON-based task plans and structured logs
+- OpenAI/Codex-assisted development workflows
+
+## Why This Project Matters
+
+Archaios OS shows my interest in practical AI orchestration: breaking work into structured tasks, routing those tasks through defined agents, logging outcomes, tracking progress, and creating an interface that makes automation understandable and controllable.
+
+---
+
 Archaios OS is a production-oriented monorepo for creative + technical agent orchestration, daily automation, and command dashboard visibility.
 
 ## Repository Structure
