@@ -1,0 +1,21 @@
+[
+  {
+    "recordId": "qx:fixture:simulation-validation-protocol",
+    "category": "CREATIVE_CONCEPT",
+    "claim": "A proposed QX intake protocol would keep simulation results separate from physical measurements.",
+    "source": "Synthetic contract fixture; not a scientific result",
+    "eventDate": null,
+    "publishedDate": null,
+    "retrievedAt": null,
+    "confidence": "UNASSESSED",
+    "counterevidence": "No scientific search performed; this is a proposed software contract only.",
+    "provenance": "Local infrastructure prototype based on Muse Polymath Bridge v1.0 section 3.3",
+    "reviewDate": null,
+    "claimType": "CONCEPT",
+    "instrumentOrModel": null,
+    "referenceStandard": null,
+    "measuredQuantity": null,
+    "uncertainty": null,
+    "reviewStatus": "UNREVIEWED"
+  }
+]
