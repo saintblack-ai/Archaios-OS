@@ -1,0 +1,47 @@
+[
+  {
+    "recordKind": "INTELLIGENCE",
+    "schemaVersion": "archaios.intelligence.draft.v1",
+    "recordId": "demo:fixture:one-event",
+    "domain": "demo",
+    "store": "demo/events",
+    "mode": "DEMO",
+    "category": "CREATIVE_CONCEPT",
+    "claim": "A fictional marker exercises a draft evidence envelope.",
+    "source": "Synthetic software fixture",
+    "eventDate": null,
+    "publishedDate": null,
+    "retrievedAt": null,
+    "reviewDate": null,
+    "confidence": "UNASSESSED",
+    "counterevidence": "No external evidence search; this is a software fixture.",
+    "provenance": "Authored draft fixture; no physical observation or live event.",
+    "placement": "UNPLACED",
+    "latitude": null,
+    "longitude": null,
+    "incidentCount": null,
+    "observedAt": null,
+    "sourceUpdatedAt": null,
+    "sourceCadence": null,
+    "connectivity": "unknown",
+    "freshnessStatus": "unknown",
+    "evidenceSources": [
+      {
+        "sourceId": "synthetic-contract-reference",
+        "citation": "https://example.org/draft-fixture",
+        "originId": "synthetic-author"
+      }
+    ],
+    "coreClaims": ["A fictional marker exercises a draft evidence envelope."],
+    "independenceRationale": "Not assessed; one synthetic source only.",
+    "assessedAt": null,
+    "assessedBy": null,
+    "reviewerIdentity": null,
+    "sourceAssessment": {
+      "status": "UNASSESSED",
+      "rationale": "No external source assessment performed; synthetic fixture only.",
+      "sourceIds": ["synthetic-contract-reference"]
+    },
+    "reviewStatus": "UNREVIEWED"
+  }
+]
